@@ -1,0 +1,16 @@
+export enum ChordProTag {
+  TITLE = 'title',
+  ARTIST = 'artist',
+  KEY = 'key',
+  TEMPO = 'tempo',
+  START_OF_VERSE = 'start_of_verse',
+  END_OF_VERSE = 'end_of_verse',
+  START_OF_CHORUS = 'start_of_chorus',
+  END_OF_CHORUS = 'end_of_chorus',
+  START_OF_BRIDGE = 'start_of_bridge',
+  END_OF_BRIDGE = 'end_of_bridge',
+  START_OF_INTRO = 'start_of_intro',
+  END_OF_INTRO = 'end_of_intro',
+  START_OF_OUTRO = 'start_of_outro',
+  END_OF_OUTRO = 'end_of_outro',
+}
